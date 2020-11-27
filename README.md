@@ -3,7 +3,7 @@
 This is some of the most interesting exercises I performance during my master in Artificial Intelligence. Explanations inside the code are in spanish though...
 
 
-- **Clusteing**  
+- **Clustering**  
     Apply clustering with dimensionality reduction. I use the algorithm _K-Means_ with [the whole sale customer dataset](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers) to analyze the annual customer expense in different types of grocery.
 - **Image Processing**  
     Noise treatment in an image using the most popular filter for that purpose.
